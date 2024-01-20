@@ -24,7 +24,7 @@ I'm Kacper Woźniak, Backend developer from <img src="https://flagcdn.com/w20/pl
 
 ## Open source projects
 - <a href="https://gitlab.com/kacper96w/idosell-ai"><b>IdoSell to OpenAI - integration of e-commerce platform with OpenAI</b></a>  
-- <a href="https://gitlab.com/kacper96w/backend-application-contract-manager/-/tree/main/ServerClient"><b>Contract Manager - Base managment application</b></a>  
+- <a href="https://github.com/devkacperwozniak/idosell-ai"><b>Contract Manager - Base managment application</b></a>  
 - <a href="https://gitlab.com/kacper96w/backend-application-currencies-report"><b>Currencies Report - Application configured on VM cooparets with Jenkins environment</b></a>
 
 ## Social medias:
